@@ -634,8 +634,8 @@ h1,h2,h3 {
     }
 }
 
-@media(orientation){
+/*@media(orientation){
     .header {
         height: 90vmax;    }
-}
+}*/
 
